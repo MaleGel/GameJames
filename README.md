@@ -1,2 +1,2 @@
 # GameJames
-Repository for any Game James I go in
+Repository for any my projects for any Game James I go in
